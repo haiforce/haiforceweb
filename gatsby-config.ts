@@ -116,6 +116,7 @@ export default {
         ],
       },
     },
+
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     {

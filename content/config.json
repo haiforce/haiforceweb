@@ -1,8 +1,8 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
+  "title": "Haiforce ",
+  "url": "https://www.haiforce.com",
+  "subtitle": "Your Professional IT solution partner to build morden Web Application, Mobile, IoT soution",
+  "copyright": "©2023 haiforce.com, All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
   "postsLimit": 4,
@@ -13,25 +13,25 @@
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "About us",
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
+      "label": "Contact us",
       "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "Haiforce",
+    "photo": "/haiforce-logo.jpg",
+    "bio": "Morden Web, Mobile, Enterprise Application, Observability, Security",
     "contacts": {
       "rss": "",
       "email": "",
       "github": "#",
       "facebook": "#",
       "telegram": "#",
-      "twitter": "#",
+      "twitter": "haiforce",
       "linkedin": "#",
       "instagram": "#",
       "mastodon": "#",
