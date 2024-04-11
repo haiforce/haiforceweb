@@ -19,6 +19,10 @@
     {
       "label": "Contact us",
       "path": "/pages/contacts"
+    },
+    {
+      "label": "Privacty",
+      "path": "/pages/privacy"
     }
   ],
   "author": {
